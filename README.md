@@ -1,5 +1,4 @@
-# html-dasar
+# tutorial-html-dasar
+Belajar HTML Dasar
 
-Belajar Pemrograman HTML Dasar
-
-Sumber : https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&pp=iAQB
+## https://developer.mozilla.org/en-US/docs/Web/HTML
